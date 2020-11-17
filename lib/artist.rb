@@ -11,6 +11,6 @@ end
 
 beyonce = Artist.new("Beyonce")
 
-711 = Song.new("7/11")
+# 711 = Song.new("7/11")
 
-711.artist = beyonce
+# 711.artist = beyonce
